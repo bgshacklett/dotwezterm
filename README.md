@@ -1,0 +1,2 @@
+# dotwezterm
+Wezterm Configuration
